@@ -1,3 +1,6 @@
 [submodule "awesome-python-books"]
 	path = awesome-python-books
 	url = https://github.com/junnplus/awesome-python-books.git
+[submodule "awesome-js-learning"]
+	path = awesome-js-learning
+	url = https://github.com/micromata/awesome-javascript-learning.git
