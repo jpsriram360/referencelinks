@@ -1,0 +1,3 @@
+[submodule "awesome-python-books"]
+	path = awesome-python-books
+	url = https://github.com/junnplus/awesome-python-books.git
